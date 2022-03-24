@@ -1,0 +1,4 @@
+.tableRow>td, .tableHeading>th{
+    padding:1vh;
+    border:1px solid black;
+}

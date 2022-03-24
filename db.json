@@ -1,0 +1,40 @@
+{
+  "details": [
+    {
+      "username": "Laxmi Dutta",
+      "age": "2",
+      "address": "WestBengal, siliguri, PO - Bhaktinagar, Dist - jalpaiguri, pincode - 734007, shantipara, near shantisangha club., siliguri, PO - Bhaktinagar, Dist - Jalpaiguri, Pincode - 734007",
+      "department": "it",
+      "salary": "50000000000",
+      "marital": false,
+      "id": 1
+    },
+    {
+      "username": "Laxmi Dutta",
+      "age": "21",
+      "address": "WestBengal, siliguri, PO - Bhaktinagar, Dist - jalpaiguri, pincode - 734007, shantipara, near shantisangha club., siliguri, PO - Bhaktinagar, Dist - Jalpaiguri, Pincode - 734007",
+      "department": "it",
+      "salary": "4000000",
+      "marital": false,
+      "id": 2
+    },
+    {
+      "username": "sam",
+      "age": "3",
+      "address": "kashmir",
+      "department": "hr",
+      "salary": "3999999999999",
+      "marital": true,
+      "id": 3
+    },
+    {
+      "username": "suravi",
+      "age": "21",
+      "address": "bangalore",
+      "department": "IT",
+      "salary": "300000000",
+      "marital": false,
+      "id": 4
+    }
+  ]
+}
